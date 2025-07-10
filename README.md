@@ -1,5 +1,6 @@
 # Kentucky Economic Dashboard (R + APIs + Tableau)
 Understanding Kentucky’s economy can be challenging due to fragmented and inconsistent data sources. This R project addresses that by pulling reliable, up-to-date economic and demographic data from multiple federal sources via APIs, including:
+
 •	Bureau of Labor Statistics (BLS)
 
 •	Bureau of Economic Analysis (BEA)
